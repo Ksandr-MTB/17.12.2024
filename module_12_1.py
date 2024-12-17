@@ -27,3 +27,5 @@ class RunnerTest(TestCase):
             challenge_run.run()
         self.assertNotEqual(challenge_walk.distance, challenge_run.distance)
 
+
+# ваыпапаыв
